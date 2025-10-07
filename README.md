@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Ihsan ahmad Fakhriansyah
-- 🌟 Vocational High School Student | Aspiring Professional in Software engginering
-- 💡 Passionate about Website development, Mobile development, and graphic design
-- 🎓 Vocational High School at IDN Boarding School  | Software engginer student
-- 🚀 Currently learning and honing skills in Front-end and back-end development, multi=platform development, and designer
-- 🌍 Open to collaboration and internship opportunities in Website and mobile developer
-- 💼 Career goal: Multi-platform developer
-- 📩 Contact me at: ihsan.ahmad.fakhriansyah@gmail.com
+## 👋 Hi, I'm Ihsan Ahmad Fakhriansyah 
+ 
+- 💻 Passionate about Software IT development, and Visual Designer
+- 🎓 Vocational High School Student | Aspiring Professional in Software engginering
+- 📚 2+ Years experience in IT development
+
+---
+
+### 🚀 Turn Creativity Into Digital Reality
+
+Open to collaboration and internship opportunities in Website and mobile developer, Currently learning and honing skills in Front-end and back-end development, multi=platform development, and designer
+
+- 🧩 Portfolio : [ihsanafr.my.id](https://ihsanafr.my.id)
+- 📺 Linkedin : [Ihsan ahmad fakhriansyah](https://www.linkedin.com/in/ihsan-ahmad-fakhriansyah-44b47924b/)  
+- ✍️ Gmail : [ihsan.ahmad.fakhriansyah@gmail.com](ihsan.ahmad.fakhriansyah@gmail.com)  
+
+---
+
+Follow me for regular updates on projects ✨  
+Let’s build and learn together!
